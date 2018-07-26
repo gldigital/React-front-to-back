@@ -21,3 +21,4 @@ const fruits = ['Apples', 'Oranges', "Grapes"];
 // const customer1 = new Customer('Kevin', 32, 300); console.log(`Hi
 // ${customer1.name} your balance is ${customer1.balance}`);
 // console.log(customer1.info());
+
